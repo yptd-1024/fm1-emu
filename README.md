@@ -6,7 +6,7 @@ FM-1 itself, its CPU, screen, keys, knobs and audio, so every one of those firmw
 unchanged in a browser, on a computer or as an instrument plugin in a DAW (AU, VST3). You can
 try a firmware before you install it, write one without a synth on the desk, or just play.
 
-**Play it: [joakimeriksson.github.io/fm1-emu](https://joakimeriksson.github.io/fm1-emu/)**:
+**Play it: [yptd-1024.github.io/fm1-emu](https://yptd-1024.github.io/fm1-emu/)**:
 pick a firmware, press Start, play with the computer keyboard, the mouse, a touch screen or
 a MIDI keyboard.
 
